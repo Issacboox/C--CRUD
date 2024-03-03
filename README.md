@@ -1,3 +1,3 @@
 # C--CRUD
-Backend => .Net Core
-Frontend => React
+Backend => .Net Core 
+| Frontend => React
